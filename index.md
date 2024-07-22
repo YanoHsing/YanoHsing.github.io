@@ -2,4 +2,4 @@
 
 [传送门测试](./testpage.md)
 
-[Math Test](./mathtest.md)
+[Math Test](./mathtest.html)
