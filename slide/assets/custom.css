@@ -21,7 +21,6 @@
   background-color: #aaaaaa;
   pointer-events: none;
   cursor: none;
-  /* 鼠标悬停时不显示手形光标 */
 }
 
 .reveal .slides {
